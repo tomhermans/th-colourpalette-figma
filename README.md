@@ -1,8 +1,5 @@
-# Preact Rectangles
+# TH Colour Palette
 
-## Development guide
-
-*This plugin is built with [Create Figma Plugin](https://yuanqing.github.io/create-figma-plugin/).*
 
 ### Pre-requisites
 
@@ -38,9 +35,6 @@ Use `console.log` statements to inspect values in your code.
 To open the developer console, search for and run `Open Console` via the Quick Actions search bar.
 
 ## See also
-
-- [Create Figma Plugin docs](https://yuanqing.github.io/create-figma-plugin/)
-- [`yuanqing/figma-plugins`](https://github.com/yuanqing/figma-plugins#readme)
 
 Official docs and code samples from Figma:
 
